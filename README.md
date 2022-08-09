@@ -3,7 +3,7 @@
 I'm pursuing my Master's in Computer Science at UC Irvine. I'm passionate about Distributed Systems, Cloud Computing Infrastructre and everything in between.
 
 - 🔭 I’m currently working as an Engineering intern at Tesla in the Energy Team. [This talk covers the work we do](https://www.infoq.com/presentations/tesla-vpp/)
-- 🌱 I’m currently learning: Scala, Akka, Go, Terraform, InfluxDB
+- 🌱 I’m currently learning: Scala, Akka, Go, Terraform, Kubernetes, InfluxDB
 - 📫 How to reach me: mohamm4@uci.edu
 <!--
 **MohammedShoaib/MohammedShoaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
