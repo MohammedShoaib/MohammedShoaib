@@ -1,6 +1,6 @@
 ### Hi, I'm Shoaib 👋
 
-I'm pursuing my Master's in Computer Science at UC Irvine. I’m currently working as an Engineering intern at [Tesla](https://www.tesla.com/energy) in the Energy Team. [This talk covers the work we do](https://www.infoq.com/presentations/tesla-vpp/). Prior to my Master's I worked as a Senior Software Engineer at [NewfoldDigital](https://newfold.com/)
+I'm pursuing my Master's in Computer Science at UC Irvine. I’m currently working as an Engineering intern at [Tesla](https://www.tesla.com/energy) in the Energy Team. [This talk covers the work we do](https://www.infoq.com/presentations/tesla-vpp/). Prior to my Master's I worked as a Senior Software Engineer at [Newfold Digital](https://newfold.com/)
 
 I consider myself as a Backend Engineer, however I have extensive SRE experience too. The highlight of my career at Newfold was that I worked as both a developer and SRE and bridged the gap between the two. Having dabbled in both fields has resulted in me gathering sufficient hindsight to get the best of both worlds. It has led to working with the best developers and SREs while exchanging ideas, coding conventions, infrastructure patterns and shell scripting(yes, I learnt a lot of shell working with SREs and I consider that as a powerful tool)
 
