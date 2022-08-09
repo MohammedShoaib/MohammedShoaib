@@ -8,7 +8,8 @@ My past experience evolves from maintaining legacy monolithic systems, to buildi
 
 
 - 🔭 Domains I'm passionate about: Distributed Systems, Reactive Streams, Cloud Infrastructure, Microservices, Databases.
-- 🌱 Tech Stack I'm currently using: Scala, Akka, Go, Terraform, Kubernetes, InfluxDB, AWS.
+- 🌱 Tech Stack I'm currently learning: Scala, Akka, Go, Terraform, Kubernetes, InfluxDB.
+- 🌱 Tech Stack I'm comfortable with: Java, Python, JavaScript, React, Spring Boot, PostgresSQL, Redis, Cassandra, AWS.
 - 📫 How to reach me: mohamm4@uci.edu
 <!--
 **MohammedShoaib/MohammedShoaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
